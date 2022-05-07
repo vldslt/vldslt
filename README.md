@@ -1,5 +1,5 @@
 ### Hi, My Name is Vlad. I'm From Russia, Saint Petersburg👋
-### 🌱 I'm currently learning data scince(ML,DL). My stack now is:
+### 🌱 I'm currently learning. My stack now is:
 *Linux*, *Phyton(np,pd,plot,xgb,sb,sk)*, *SQL*, *Java*, *R*, *Bash*, *HTML(search,sparsing)*, *0x*, *SSH*, *Mathematical analysis and statistics*
 ### I am currently considering vacancies for a junior or a trainee.
 ***telegram @sillysalat //*** 

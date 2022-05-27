@@ -1,0 +1,5 @@
+// когда блютуз не работает на убунту, это его чинит.
+
+sudo rmmod btusb
+sudo modprobe btusb
+sudo service bluetooth restart

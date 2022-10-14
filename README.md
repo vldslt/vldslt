@@ -1,6 +1,6 @@
 ### Hi, My Name is Vlad. I'm From Russia, Saint Petersburg👋
 ### 🌱 I'm currently learning. My stack now is:
-*Linux*, *Phyton(np,pd,plot,xgb,sb,sk)*, *SQL*, *Java*, *Android*, *R*, *Bash*, *SSH*, *Mathematical analysis and statistics*
+*Linux*, *Phyton(np,pd,plot,xgb,sb,sk)*, *SQL*, *Java*, *Kotlin*, *Android*, *R*, *Mathematical analysis and statistics*
 ### I am currently considering vacancies for a junior or a trainee.
 ***telegram @sillysalat //*** 
 ***email vldslt666@gmail.com***
